@@ -1,0 +1,21 @@
+name: pymc3_dep
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cloudpickle
+  - ipykernel
+  - libpython
+  - m2w64-toolchain
+  - mkl=2017
+  - pygpu
+  - theano
+  - conda-forge::pymc3
+  - parameterized
+  - scikit-learn
+  - conda-forge::arviz
+  - pandas
+  - xlrd
+  - seaborn
+  - jupyter
