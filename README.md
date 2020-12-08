@@ -17,3 +17,5 @@ Download and Install [Anaconda python](https://www.anaconda.com/products/individ
 
 
 2. All the analytic are stored in `*.ipynb` files. It's in essence the same thing as R markdown. You can start jupyter notebook by selecting the environment and starting jupyter notebook through the anaconda navigator. Or through command line by running `jupyter notebook` in the directory after you activated the environment
+
+3. To run the notebook, click on `cell`-> `Run All`
